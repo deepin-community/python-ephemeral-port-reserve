@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-ephemeral-port-reserve (1.1.4-2) unstable; urgency=medium
 
-  * Initial release
+  * Re-upload source-only.
+  * Add missing dh_python3 --shebang=/usr/bin/python3 call.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Thomas Goirand <zigo@debian.org>  Sat, 17 Sep 2022 17:22:56 +0200
+
+python-ephemeral-port-reserve (1.1.4-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1019730).
+
+ -- Thomas Goirand <zigo@debian.org>  Wed, 14 Sep 2022 11:45:40 +0200
